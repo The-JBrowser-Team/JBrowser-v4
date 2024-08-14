@@ -1,6 +1,8 @@
 # JBrowser-v4 - The Open-Source Internet
 JBrowser is a simple open-source browser coded in Python and HTML CSS.
 
+**To Install**: Download this .zip pakage you would like from this respirtory. This will include the application, the source code, and the license PDF.
+
 
 ## Why Do We Exist?
 JBrowser was created with three core principles in mind:
